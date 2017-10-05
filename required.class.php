@@ -1,0 +1,2 @@
+<?php
+$libreria = new uno();
